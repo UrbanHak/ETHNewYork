@@ -2,6 +2,8 @@
 Winning project ETH New York
 https://ethglobal.com/showcase/cross-fader-k2601
 
+gh repo clone johhonn/ETHNYC
+
 import {IConnextHandler} from "@connext/nxtp-contracts/contracts/core/connext/interfaces/IConnextHandler.sol";
 import {CallParams, XCallArgs} from "@connext/nxtp-contracts/contracts/core/connext/libraries/LibConnextStorage.sol";
 import {IERC20} from "@openzeppelin/contracts/token/ERC20/IERC20.sol";
